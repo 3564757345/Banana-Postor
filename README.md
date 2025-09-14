@@ -3,7 +3,7 @@
 <img width="1344" height="768" alt="Gemini_Generated_Image_oacktnoacktnoack" src="https://github.com/user-attachments/assets/67b2568f-8b53-4a5c-bf2e-097233ce1116" />
 
 
-🍌BananaPostor｜香蕉打印店｜ZHO
+# 🍌BananaPostor｜香蕉打印店｜ZHO
 
 
 一键生成 可编辑海报，自动总结和配图，多种构图/配色可选，中英双语
