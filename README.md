@@ -1,5 +1,15 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+
+
+🍌BananaPostor｜香蕉打印店｜ZHO
+
+
+一键生成 可编辑海报，自动总结和配图，多种构图/配色可选，中英双语
+
+
+
+
 </div>
 
 # Run and deploy your AI Studio app
